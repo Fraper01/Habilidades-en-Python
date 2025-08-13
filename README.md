@@ -14,7 +14,10 @@ Un ejemplo práctico de cómo interactuar con bases de datos relacionales en Pyt
 
 [https://github.com/Fraper01/Proyecto-Gestion-Tkinter-SqLite.git]
 
-4. Asistente de Aprendizaje de Python con IA.
+3. Asistente de Aprendizaje de Python con IA.
 Demuestra la capacidad de interactuar con modelos de lenguaje de forma local a través de Ollama. Este proyecto combina un chat de consola y un asistente educativo, mostrando habilidades en IA, estructuración de programas y la creación de prompts efectivos.
+
+[https://github.com/Fraper01/Proyecto-Asistente-Python-IA.git]
+
 
 ¡Gracias por visitar!
