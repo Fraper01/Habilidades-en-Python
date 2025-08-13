@@ -7,7 +7,7 @@ Este repositorio actúa como un índice para mis proyectos principales, demostra
 1. Proyecto de Programación Orientada a Objetos (POO).
 Un sistema robusto para manejar fracciones simples y mixtas, demostrando mi habilidad con conceptos clave de POO como la herencia y la sobrecarga de operadores.
 
-[https://github.com/Fraper01/CSharp-Basicos-y-Api-Ejemplo.git](https://github.com/Fraper01/Proyecto-Fracciones-y-OOP.git)
+[https://github.com/Fraper01/Proyecto-Fracciones-y-OOP.git]
 
 3. Proyecto de Gestión de Datos con CRUD.
 Un ejemplo práctico de cómo interactuar con bases de datos relacionales en Python. Este proyecto implementa operaciones CRUD (Crear, Leer, Actualizar, Borrar) y muestra la persistencia de datos, una habilidad fundamental en el desarrollo de aplicaciones.
