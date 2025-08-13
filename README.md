@@ -9,8 +9,10 @@ Un sistema robusto para manejar fracciones simples y mixtas, demostrando mi habi
 
 [https://github.com/Fraper01/Proyecto-Fracciones-y-OOP.git]
 
-3. Proyecto de Gestión de Datos con CRUD.
+2. Proyecto de Gestión de Datos con CRUD.
 Un ejemplo práctico de cómo interactuar con bases de datos relacionales en Python. Este proyecto implementa operaciones CRUD (Crear, Leer, Actualizar, Borrar) y muestra la persistencia de datos, una habilidad fundamental en el desarrollo de aplicaciones.
+
+[https://github.com/Fraper01/Proyecto-Gestion-Tkinter-SqLite.git]
 
 4. Asistente de Aprendizaje de Python con IA.
 Demuestra la capacidad de interactuar con modelos de lenguaje de forma local a través de Ollama. Este proyecto combina un chat de consola y un asistente educativo, mostrando habilidades en IA, estructuración de programas y la creación de prompts efectivos.
